@@ -8,7 +8,6 @@
 </div>
 <div display="block">
 <h2 align="center">About me</h2>
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" align="center" />
 <h4> 💻 Tech tools and Languages </h4>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -50,20 +49,5 @@
 <div align="center" display="block">
     <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="500" align="center" />
 </div>
-<!--
-**zeo-return-null/zeo-return-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
  
