@@ -18,5 +18,5 @@ I'm a passionate fullstack developer with expertise in Angular and Yii2, profici
 
 ## Get in Touch
 
-- :mailbox: Reach out to me via [email](mailto:cjfsepu@gmail.com) for collaboration or inquiries.
+- :mailbox: Reach out to me via [email](mailto:cjfsepu@protonmail.com) for collaboration or inquiries.
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/cjfsepulveda/).
