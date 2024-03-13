@@ -8,7 +8,7 @@ I'm a passionate fullstack developer with expertise in Angular and Yii2, profici
 - :hammer_and_wrench: Skilled in database management with Postgres and MySQL, ensuring efficient data handling and retrieval.
 - :whale: Proficient in Docker for containerizing projects, facilitating seamless deployment across various environments.
 - :seedling: Constantly learning and exploring new technologies, with a keen interest in Rust and ongoing use of React.
-- :male-technologist: Eager to collaborate on innovative projects and contribute to open source communities.
+- :zap: Eager to collaborate on innovative projects and contribute to open source communities.
 
 ## Current Focus
 
